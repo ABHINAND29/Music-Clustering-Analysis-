@@ -169,15 +169,12 @@ The clustering model successfully groups songs into meaningful categories based 
 
 * Incorporate genre/lyrics features
 * Build a real-time recommendation system
-* Deploy using Streamlit
 
 ---
 
 ## 🙌 Author
 
 **Abhinand KM**
-Diploma in Computer Engineering
-Specialized in Python Django
 
 ---
 
